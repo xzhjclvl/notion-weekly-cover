@@ -1,3 +1,0 @@
-Put JPG, JPEG, PNG, GIF, or WEBP images in this folder.
-Rename them 01.jpg, 02.jpg, 03.jpg, etc. to set their order.
-Delete this instruction file if you want.
